@@ -18,7 +18,7 @@
 
 ### 💻 Featured Projects
 
-**[AI-Developer Application](https://ai-developer-frontend-fawn.vercel.app/login)** *(Replace # with your repository or live link)*
+**[AI-Developer Application](https://ai-developer-frontend-fawn.vercel.app/login)**
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redis, Socket.io, Google Generative AI API <!--[cite: 4]-->
 - Full-stack collaborative platform for AI development projects featuring real-time chat and live code execution via WebSockets. <!--[cite: 4]-->
 - Integrated Google Generative AI for code generation and secured with JWT authentication. <!--[cite: 4]-->
@@ -28,7 +28,7 @@
 - Full-stack job portal enabling companies to post jobs and manage candidate applications. <!--[cite: 4]-->
 - Secured backend routes using JWT, bcrypt.js, and Clerk authentication. <!--[cite: 4]-->
 
-**[AI-Based Answer Sheet Evaluation System]** *(Replace # with your repository link)*
+**[AI-Based Answer Sheet Evaluation System]** 
 - **Tech Stack:** FastAPI, React.js, Tesseract OCR, NLP <!--[cite: 4]-->
 - Automated evaluation system for handwritten answer sheets utilizing Tesseract OCR. <!--[cite: 4]-->
 - Implemented NLP-based comparisons to generate similarity scores and assign marks. <!--[cite: 4]-->
